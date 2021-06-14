@@ -1,0 +1,7 @@
+Planning Ahead / Reflection
+
+Our product could definetly be developed further than the stage it's currently at, our light sensor is limited in it's range of detection so a more
+advanced sensor would provide more website options to the user. It might be possible to utilize google lens to show a website photo and bring the user
+to that website. If we had a light sensor that detects colour as well, we could set diferent websites to open according to colour. If it were to be
+mass marketed then the Pi and all the circuitry would be contained within a main body with the sensor and button on the sides so the user can access 
+them.
