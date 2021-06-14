@@ -67,6 +67,3 @@ Text(app, text="Light", size=32)
 light_text = Text(app, text="0", size=110)
 light_text.after(200, update_reading)
 app.display()
-# if given more time we could do: ----v
-# Could add that if it detects a certain color it opens a website, not sure if thats the same component though
-# Maybe through google lens, if we show a logo it opens that website,
